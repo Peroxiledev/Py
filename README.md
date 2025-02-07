@@ -6,7 +6,6 @@ This project is for **educational and awareness purposes only**. It is intended 
 ## Features  
 - Automatically installs dependencies if missing  
 - Logs keystrokes  
-- Runs in the background  
 - Stores logs in a file  
 
 ## Installation & Run  
